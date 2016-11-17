@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="3221188a-8925-47fe-85dc-dbfeb8d28330" name="[CITI] Laravel" url="http://laravel.citi">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
