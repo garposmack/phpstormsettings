@@ -13,6 +13,7 @@
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
       <mapping pattern="gggg" type="PLAIN_TEXT" />
       <mapping ext="cvs" type="PLAIN_TEXT" />
+      <mapping ext="jade" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
