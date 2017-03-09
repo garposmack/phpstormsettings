@@ -11,6 +11,7 @@
       <mask>*.php</mask>
       <mask>*.css</mask>
       <mask>*.html</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
