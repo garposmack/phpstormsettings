@@ -4,12 +4,14 @@
     <property name="created">2017-03-25T18:18:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-03-27T08:58:10</property>
+    <property name="modified">2017-03-27T09:12:30</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
