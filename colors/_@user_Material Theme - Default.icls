@@ -4,13 +4,14 @@
     <property name="created">2017-03-25T18:18:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-03-27T08:58:10</property>
+    <property name="modified">2017-03-27T14:36:03</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
