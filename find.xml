@@ -19,12 +19,12 @@
       <mask>*.pht</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.ini</mask>
       <mask>*.in</mask>
-      <mask>*.i</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
