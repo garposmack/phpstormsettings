@@ -17,16 +17,16 @@
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
-      <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
       <mask>*.i</mask>
       <mask>*.in</mask>
       <mask>*.ini</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
