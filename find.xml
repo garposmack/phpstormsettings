@@ -16,9 +16,6 @@
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.i</mask>
@@ -27,7 +24,6 @@
       <mask>spe</mask>
       <mask>sp</mask>
       <mask>s</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sp</mask>
       <mask>*.spe</mask>
@@ -36,8 +32,12 @@
       <mask>*.spec.j</mask>
       <mask>*.spec.js</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.ini</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
