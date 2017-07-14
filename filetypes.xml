@@ -4,15 +4,16 @@
     <extensionMap>
       <mapping ext="kiy" type="HTML" />
       <mapping ext="kit" type="HTML" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="caebook data" type="PLAIN_TEXT" />
-      <mapping pattern="Subcategorias.php" type="PLAIN_TEXT" />
-      <mapping pattern="intro.html" type="PLAIN_TEXT" />
-      <mapping pattern="tmp" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
       <mapping pattern="gggg" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="caebook data" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
+      <mapping pattern="intro.html" type="PLAIN_TEXT" />
+      <mapping pattern="Subcategorias.php" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="cvs" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
