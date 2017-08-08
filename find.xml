@@ -3,10 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ini" />
     <recentFileMasks>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.i</mask>
       <mask>*.in</mask>
       <mask>spec</mask>
       <mask>spe</mask>
@@ -20,10 +19,8 @@
       <mask>*.spec.j</mask>
       <mask>*.spec.js</mask>
       <mask>*.*</mask>
-      <mask>*.ini</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
-      <mask>*.ph</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
@@ -31,9 +28,13 @@
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.pi</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
