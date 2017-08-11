@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>spe</mask>
-      <mask>sp</mask>
-      <mask>s</mask>
       <mask>*.s</mask>
       <mask>*.sp</mask>
       <mask>*.spe</mask>
@@ -29,11 +26,14 @@
       <mask>*.in</mask>
       <mask>*.i</mask>
       <mask>*.php</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
