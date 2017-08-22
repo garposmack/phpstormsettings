@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ini" />
     <recentFileMasks>
       <mask>*.s</mask>
       <mask>*.sp</mask>
@@ -22,20 +23,20 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*</mask>
       <mask>*.pi</mask>
-      <mask>*.ini</mask>
-      <mask>*.in</mask>
-      <mask>*.i</mask>
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.i</mask>
+      <mask>*.in</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
